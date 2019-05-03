@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans|Titillium+Web:600,700");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Scada:400');
 html {
   overflow-x: hidden;
 }
@@ -22,8 +22,8 @@ body {
 h1, h2, h3, h4 {
   font-size: 38px;
   color: #222222;
-  font-weight: 700;
-  font-family: 'Titillium Web', sans-serif;
+  font-weight: 400;
+  font-family: 'Scada', sans-serif;
 }
 
 a {
@@ -1186,7 +1186,7 @@ hr {
 }
 
 /* ==========================================================================
-  17. Blog 
+  17. Blog
    ========================================================================== */
 #blog .blog-item-wrapper {
   background: #fff;
